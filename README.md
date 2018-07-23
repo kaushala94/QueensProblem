@@ -1,5 +1,6 @@
 # QueensProblem
-Solving queens problem using hill climbing method part a
+Solving queens problem using hill climbing method 
+part a
 
     public class main {
 	
