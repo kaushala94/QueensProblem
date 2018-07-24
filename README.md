@@ -50,7 +50,7 @@ then create the class chessboard
 		{
 			if (numQueens == 8)
 			{
-				System.out.println("DONE");
+				System.out.println("solution\n");
 				this.printBoard();
 				return true;
 			}
